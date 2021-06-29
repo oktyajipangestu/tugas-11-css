@@ -1,0 +1,30 @@
+header {
+    background-color: black;
+}
+
+header ul {
+    margin: 0;
+}
+
+header ul li {
+    display: inline-block;
+    padding: 10px;
+}
+
+header ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.container p {
+    column-count: 4;
+    column-fill: balance;
+    column-rule: black solid 2px;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    padding-bottom: 15px;
+    text-align: center;
+}
